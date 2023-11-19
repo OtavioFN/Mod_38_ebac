@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ot%C3%A1vio/Documents/MeusProjetos/EBAC-Data_Science/CIENCIA/MODULO_38/mlruns/427585015189361901/0b5613593c884520ac5dc29fc3c36e03/artifacts
+end_time: 1700369933969
+entry_point_name: ''
+experiment_id: '427585015189361901'
+lifecycle_stage: active
+run_id: 0b5613593c884520ac5dc29fc3c36e03
+run_name: Light Gradient Boosting Machine
+run_uuid: 0b5613593c884520ac5dc29fc3c36e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700369933811
+status: 3
+tags: []
+user_id: Otávio
